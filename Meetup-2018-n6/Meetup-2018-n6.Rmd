@@ -1,0 +1,108 @@
+---
+title: "Welcome ChiPy & CRUG members!"
+author: " "
+date: "`r Sys.Date()`"
+output: RUGtools::intro_slides
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(RUGtools)
+```
+
+
+# Welcome!
+
+## ChiPy {.smaller .columns-2}
+
+
+![](images/GitHub-Mark.png) [chicagopython](https://github.com/chicagopython)
+
+
+![](images/twitter50x41.png) @[ChicagoPython](https://twitter.com/ChicagoPython)
+
+
+![](images/slack_50x50.png) URL: [chipy.slack.com](https://joinchipyslack.herokuapp.com/)
+
+**Code of Conduction:** [http://www.chipy.org/pages/conduct/](http://www.chipy.org/pages/conduct/)
+
+
+```{r, out.width = "500px", fig.align='left'}
+path1 <- paste0(getwd(), "/images/ChiPy.png")
+knitr::include_graphics(path1)
+```
+
+
+## Chicago R User Group {.smaller .columns-2}
+
+
+![](images/GitHub-Mark.png) [Chicago-R-User-Group](https://github.com/Chicago-R-User-Group)
+
+
+![](images/twitter50x41.png) @[ChicagoRusers](https://twitter.com/ChicagoRusers)
+
+
+![](images/slack_50x50.png) @[chicagorusergroup.slack.com](https://join.slack.com/t/chicagorusergroup/shared_invite/enQtNDA0Nzc1MTE3NDkwLWYxNTk1NjRiNjFkZTc5ZWQ4ZWJlNDU5YjZjNjQwMGZkMWRkMmUxOWM1YzM1NjFkYjVjMjgzMmQyOGI3NzRkYzA)
+
+**Code of Conduction:** [http://www.chipy.org/pages/conduct/](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct)
+
+```{r, out.width = "500px", fig.align='left'}
+path1 <- paste0(getwd(), "/images/CRUG_Header.png")
+knitr::include_graphics(path1)
+```
+
+## Welcome Chicago R-Ladies and PyLadies Chicago! {.smaller .columns-2}
+
+
+
+
+```{r, out.width = "150px", fig.align='left'}
+path2 <- paste0(getwd(), "/images/R-LadiesGlobal.png")
+knitr::include_graphics(path2)
+```
+
+![](images/m_swarm_50x50.png)[meetup.com/R-Ladies Chicago](https://www.meetup.com/rladies-chicago/)
+
+![](images/twitter50x41.png)@[RLadiesChicago](https://twitter.com/RLadiesChicago)
+
+
+```{r, out.width = "150px", fig.align='left'}
+path2 <- paste0(getwd(), "/images/PyLadies.jpeg")
+knitr::include_graphics(path2)
+```
+
+![](images/m_swarm_50x50.png)[meetup.com/Chicago-PyLadies](https://www.meetup.com/Chicago-PyLadies/)
+
+![](images/twitter50x41.png)@[PyLadiesChicago](https://twitter.com/PyLadiesChicago)
+
+
+# Jobs: Anyone hiring? Any recruiters here?
+
+# Today's meetup and its Sponsor
+
+
+## Sponsors {.columns-2}
+
+Thanks to Braintree and IBM for sponsoring this meetup and making it possible!
+
+
+```{r, out.width = "400px"}
+path <- paste0(getwd(), "/images/Braintree.png")
+knitr::include_graphics(path)
+```
+
+```{r, out.width = "400px"}
+path <- paste0(getwd(), "/images/IBM-Logo.jpeg")
+knitr::include_graphics(path)
+```
+
+## Today's Meetup
+
+- Python EOgmaNeo Self-Driving Model Car: Powered by Raspberry Pi 3B+ and Arduino, by Yana Lustina
+
+- Base R and Python Pandas, by Parfait Gasana
+
+- Package mmap: Map Pages of Memory, by Jeff Ryan
+
+- A Real Live Round-table!
