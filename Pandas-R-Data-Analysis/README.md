@@ -23,4 +23,4 @@ Talk highlights data analysis features of Python Pandas and R through the data a
 ### PACKAGES
 
 * **Python 3+**: pandas, numpy, sqlalchemy, statsmodels, matplotlib, seaborn, Cython, rpy2, and flask packages.
-* **R 3+**: XML, jsonlite, RSQLite, DBI, ggplot2, scales, gWidgets2, gWidgets2RGtk2, RGtk2, reticulate, inline, Rcpp, Shiny, and DT packages.
+* **R 3+**: XML, jsonlite, RSQLite, DBI, ggplot2, scales, gWidgets2, RGtk2, reticulate, inline, Rcpp, Shiny, and DT packages.
