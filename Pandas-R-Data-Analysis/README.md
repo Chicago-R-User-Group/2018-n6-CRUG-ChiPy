@@ -16,9 +16,13 @@ Talk highlights data analysis features of Python Pandas and R through the data a
 
 ### NOTEBOOKS
 
-* **Python**: Jupyter Notebooks (with Python 3 and R kernels)
-* **R**: R Markdown Notebooks (including HTML reports)
+- Jupyter Notebooks (with Python 3 and R kernels)
+   - [Pandas Jupyter Notebook](https://nbviewer.jupyter.org/github/Chicago-R-User-Group/2018-n6-CRUG-ChiPy/blob/master/Pandas-R-Data-Analysis/Pandas%20Data%20Analysis%20CTA%20Ridership.ipynb)
+   - [R Jupyter Notebook](https://nbviewer.jupyter.org/github/Chicago-R-User-Group/2018-n6-CRUG-ChiPy/blob/master/Pandas-R-Data-Analysis/R%20Data%20Analysis%20CTA%20Ridership.nb.ipynb)
 
+- R Markdown Notebooks (including HTML reports)
+   - [R in R Notebook](https://htmlpreview.github.io/?https://github.com/Chicago-R-User-Group/2018-n6-CRUG-ChiPy/blob/master/Pandas-R-Data-Analysis/R%20Data%20Analysis%20CTA%20Ridership.nb.html)
+   - [Pandas in R Notebook](https://htmlpreview.github.io/?https://github.com/Chicago-R-User-Group/2018-n6-CRUG-ChiPy/blob/master/Pandas-R-Data-Analysis/Pandas%20Data%20Analysis%20CTA%20Ridership.nb.html)
 
 ### PACKAGES
 
